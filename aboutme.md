@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Goody
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
 Hey, this is Scot. I live and love in Chicago.  
