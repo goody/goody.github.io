@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Improv
+title: Improviser
 subtitle: making it up as I go along
 ---
 

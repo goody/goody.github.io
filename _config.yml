@@ -24,6 +24,7 @@ description: CHI dev & improviser
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Code: "code"
   Improv: "improv"
   # More Stuff:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
