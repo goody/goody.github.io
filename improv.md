@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Goody
-subtitle: 
+title: Improv
+subtitle: making it up as I go along
 ---
 
 I perform @ [iO Chicago](http://www.ioimprov.com/)  with these lovely folks:
