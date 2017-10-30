@@ -6,7 +6,7 @@ subtitle:
 
 I perform @ [iO Chicago](http://www.ioimprov.com/)  with these lovely folks:
 
-### Smoking' Hot Dad
+### Smokin' Hot Dad
 
 ![SHD](/img/shd.jpg)
 
