@@ -5,6 +5,7 @@ image: /img/docker.png
 tags: [docker, development]
 ---
 
-Docker for Developers video I made:
+My *Docker for Developers* vid:
 
-https://www.youtube.com/watch?v=aKglTUlbD7Q
+
+[![Docker for Developers](https://img.youtube.com/vi/aKglTUlbD7Q/1.jpg)](https://www.youtube.com/watch?v=aKglTUlbD7Q)
