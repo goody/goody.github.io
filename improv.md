@@ -6,7 +6,7 @@ subtitle: making it up as I go along
 
 I perform @ [iO Chicago](http://www.ioimprov.com/)  with these lovely folks:
 
-### Smokin' Hot Dad
+### [Smokin' Hot Dad](https://www.ioimprov.com/shows/smokin-hot-dad/)
 
 ![SHD](/img/shd.jpg)
 
