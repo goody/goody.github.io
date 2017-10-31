@@ -11,6 +11,7 @@ I perform @ [iO Chicago](http://www.ioimprov.com/)  with these lovely folks:
 ![SHD](/img/shd.jpg)
 
 ### Here's when we're up next:
+
 Fri 11/3/17 10:30 PM | The Mission Theater | [SMOKIN' HOT DAD & REVOLVER](https://www.ioimprov.com/search/?q=smokin-hot-dad)
 
 Thu 11/9/17 8:30 PM | The Jason Chin Harold Cabaret | [SMOKIN' HOT DAD &  MERIDIAN](https://www.ioimprov.com/search/?q=smokin-hot-dad)
