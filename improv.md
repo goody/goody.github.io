@@ -12,9 +12,6 @@ I perform @ [iO Chicago](http://www.ioimprov.com/)  with these lovely folks:
 
 ### Here's when we're up next:
 
-Friday, December 8th, 8:30PM - [iO Chicago](https://www.ioimprov.com/search/?q=smokin-hot-dad)
+Friday, January 19th, 8:00PM - [iO Chicago](https://www.ioimprov.com/search/?q=smokin-hot-dad)
 
-Friday, December 15th, 8:30PM - [iO Chicago](https://www.ioimprov.com/search/?q=smokin-hot-dad)
-
-Friday, December 29th, 8:00PM - [iO Chicago](https://www.ioimprov.com/search/?q=smokin-hot-dad)
-
+Friday, January 26th, 10:30PM - [iO Chicago](https://www.ioimprov.com/search/?q=smokin-hot-dad)
