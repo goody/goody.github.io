@@ -9,5 +9,5 @@ Hey, this is Scot. I live and love in Chicago.
 ### more about Scot
 
 Places I spend a lot of my time
-* during the day  [Rightpoint](https://www.rightpoint.com/) 
-* during the night [The iO Theater](http://www.ioimprov.com/) 
+* during the day  [Luminix](https://www.luminixinc.com/) 
+* during the night(pre-COVID) [The iO Theater](http://www.ioimprov.com/) 
